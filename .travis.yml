@@ -1,0 +1,5 @@
+script:
+  - echo hello world!
+
+notifications:
+  email: false
